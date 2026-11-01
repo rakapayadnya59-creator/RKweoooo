@@ -1,0 +1,31 @@
+========================================================================
+MICRO LEDGER & AI WORKOUT — BUILD & CHECKSUM MANIFEST (MASTER PROMPT V4.0)
+========================================================================
+Build ID       : v4.0.0-GITHUB-PWA-20261101
+Build Time     : 2026-11-01T23:38:00+08:00
+Version        : 4.0.0 (Stability Refinement, Reset Data & GitHub Pages PWA)
+ZIP File Name  : MICRO-LEDGER-PWA-GITHUB.zip
+ZIP Size       : Pending final archive pass
+ZIP SHA-256    : See standalone BUILD_INFO.txt
+
+FILE INVENTORY & SHA-256 CHECKSUMS (ROOT EXTRACTED STRUCTURE):
+  - .nojekyll                          |         0 bytes | SHA-256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  - CHANGELOG_V4.md                    |     5,395 bytes | SHA-256: 480df121347e7c180c6152d31f7d407efa1ab8a2458cca1c3facbd8f3e32d6a4
+  - DEPLOY_GITHUB_PAGES.md             |     3,180 bytes | SHA-256: 37d1f037f34307b335d7ba030e7d9b754e8888267ef6860a51f6537344216c7c
+  - QA_REPORT_V4.md                    |     4,651 bytes | SHA-256: bfbbb2b3a2f744757effca1d2b1ae9d3436126c5ea62f09cfd9b50f04e55defc
+  - README.md                          |     3,380 bytes | SHA-256: fee87846e8f06899822ecaac5bfbd840d3e55edf8fcaa74dd63de7c8669be92d
+  - firestore.rules                    |       358 bytes | SHA-256: a211dd0b58556da8e38c0f16a2aba547aac4e52415dc058b1c99f8e5151e11d8
+  - index.html                         |   500,875 bytes | SHA-256: 2360e3bb2e347d01dd22eb122e943d8b832df7f331cce3f5a414a5a10f21612a
+  - manifest.json                      |       796 bytes | SHA-256: 82d818e02844a88815465190022f96845247c14be9b443a0134ab5920aaf2e49
+  - manifest.webmanifest               |       796 bytes | SHA-256: 82d818e02844a88815465190022f96845247c14be9b443a0134ab5920aaf2e49
+  - offline.html                       |     2,572 bytes | SHA-256: 4e62db60c2cff5ade396ec54f127e23cfd51d270df68dfe7fb596fbda64cde56
+  - sw.js                              |     3,106 bytes | SHA-256: 59ded1319154fcb313ad4d68483b575bfaa6d421ea3ce85e6b0a097006d0400b
+  - icons/app-192.png                  |     1,381 bytes | SHA-256: 3f46bd3b9a0d13724874f391e8a26ed896d1f8e1deab1aef1a0b21823b6bb0ab
+  - icons/app-512-maskable.png         |     3,880 bytes | SHA-256: f7d396940d179c8fd0922a34e6c9e7d05cd7bfb269a1c6835d3743b56816715a
+  - icons/app-512.png                  |     4,270 bytes | SHA-256: 9e757c8a0ee9b07136372f09b93fbca5e6d2cd3a9143fe2b79f3fd9563d4ab4c
+  - icons/apple-touch-icon.png         |     1,263 bytes | SHA-256: d2f9cdb2e895481fed00f0ab28514aa47f97b63c30a0a3b889920c4042344775
+  - icons/favicon.png                  |       518 bytes | SHA-256: bb024bc99cd439a893bc1cb0a6596ada4246d7f3c6a88a017fc022a6b3a46aca
+  - icons/icon-192.png                 |     1,381 bytes | SHA-256: 3f46bd3b9a0d13724874f391e8a26ed896d1f8e1deab1aef1a0b21823b6bb0ab
+  - icons/icon-512-maskable.png        |     3,880 bytes | SHA-256: f7d396940d179c8fd0922a34e6c9e7d05cd7bfb269a1c6835d3743b56816715a
+  - icons/icon-512.png                 |     4,270 bytes | SHA-256: 9e757c8a0ee9b07136372f09b93fbca5e6d2cd3a9143fe2b79f3fd9563d4ab4c
+========================================================================
