@@ -1,6 +1,6 @@
 /**
  * Service Worker — Micro Ledger & AI Workout PWA (Master Prompt V4.0)
- * - Cache Version: micro-ledger-pwa-v4.0.0
+ * - Cache Version: micro-ledger-pwa-v4.0.1
  * - GitHub Pages Subpath Compatible: Uses strictly relative paths (./...) so deployment
  *   under https://<username>.github.io/<repo-name>/ resolves inside the repository scope.
  * - Security & Privacy: Never caches Firestore/Auth private endpoints or user backup files.
@@ -11,11 +11,11 @@ const APP_SHELL = [
   './index.html',
   './manifest.json',
   './offline.html',
-  './icons/favicon.png',
-  './icons/apple-touch-icon.png',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/icon-512-maskable.png'
+  './favicon.png',
+  './apple-touch-icon.png',
+  './icon-192.png',
+  './app-512.png',
+  './app-512-maskable.png'
 ];
 
 self.addEventListener('install', (event) => {
