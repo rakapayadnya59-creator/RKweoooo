@@ -1,6 +1,6 @@
 /**
  * Service Worker — Micro Ledger & AI Workout PWA (GitHub Pages Sub-Folder & Root Ready)
- * - Cache Version: micro-ledger-pwa-v3.0.1
+ * - Cache Version: micro-ledger-pwa-v3.0.2
  * - Sub-folder Safe: Uses strictly relative asset paths (no leading "/" root paths)
  *   so deployment under https://<username>.github.io/RKweoooo/ resolves all assets inside /RKweoooo/.
  * - Fault-Tolerant Install: Caches each app-shell file via Promise.allSettled so WebAPK installation
@@ -12,11 +12,11 @@ const APP_SHELL = [
   'index.html',
   'manifest.json',
   'offline.html',
-  'icons/app-192.png',
-  'icons/app-512.png',
-  'icons/app-512-maskable.png',
-  'icons/apple-touch-icon.png',
-  'icons/favicon.png'
+  'app-192.png',
+  'app-512.png',
+  'app-512-maskable.png',
+  'apple-touch-icon.png',
+  'favicon.png'
 ];
 
 self.addEventListener('install', (event) => {
